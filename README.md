@@ -7,18 +7,23 @@
 ![img src](1.png)
 ##
 - Latest seeds
+
 ![img src](2.png)
 ##
 - Previous OS's
+
 ![img src](3.png)
 ##
 - Create install media
+
 ![img src](4.png)
 ##
 - Formatting your device
+
 ![img src](4b.png)
 ##
 - Get and install a Boot Loader
+
 ![img src](5.png)
 ##
 [Download](https://github.com/LAbyOne/Create-MacOS-Install/raw/main/Create MacOS Install.dmg)
