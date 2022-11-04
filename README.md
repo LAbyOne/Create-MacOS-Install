@@ -1,4 +1,4 @@
-# Create-MacOS-Install
+# Create MacOS Install
 (Hackintosh friendly) utility to Download any Apple OS's and create a bootable install media
 
 
