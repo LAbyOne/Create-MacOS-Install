@@ -4,6 +4,7 @@
 
 ## 
 - Main panel will check your machine specs and the latest supported OS for it
+
 ![img src](1.png)
 ##
 - Latest seeds
