@@ -1,5 +1,5 @@
 # Create MacOS Install
-(Hackintosh friendly) utility to Download any Apple OS's and create a bootable install media
+(Hackintosh friendly) utility to Download any Apple OS's and create a bootable install media.
 ## 
 ![img src](logo.png)
 ## 
