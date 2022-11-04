@@ -26,5 +26,5 @@
 
 ![img src](5.png)
 ##
-[Download](https://github.com/LAbyOne/Create-MacOS-Install/raw/main/Create MacOS Install.dmg)
+[Download](https://github.com/LAbyOne/Create-MacOS-Install/raw/main/Create%20MacOS%20Install.dmg)
 ##
