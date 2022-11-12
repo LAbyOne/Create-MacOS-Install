@@ -23,7 +23,8 @@
 
 ![img src](4b.png)
 
-for Older Systems (needed space requirements)
+-for Older Systems (needed space requirements)
+
 ![img src](4c.png)
 ##
 - Get and install a Boot Loader
