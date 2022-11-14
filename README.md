@@ -10,6 +10,8 @@
 - Latest seeds
 
 ![img src](2.png)
+
+![img src](2b.png)
 ##
 - Previous OS's
 
