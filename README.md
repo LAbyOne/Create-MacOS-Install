@@ -11,6 +11,8 @@
 
 ![img src](2.png)
 
+- Add warning for Release Candidate, seed as Beta on current catalog
+
 ![img src](2b.png)
 ##
 - Previous OS's
