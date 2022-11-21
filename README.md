@@ -9,15 +9,15 @@ It will also set the Downloadable OS with the right distribution suffix.
 
 ![img src](1.png)
 ##
-- Latest seeds are now set to current Release Catalog
+- Latest seeds are now set to current OS Release Catalog
 
 ![img src](2.png)
 
-- And can Switch to betas by selecting the menu option
+- Can Switch to betas by selecting the menu option
 
 ![img src](2a.png)
 
-- Add possibility to change catalog and Switch to older
+- Add possibility to Switch catalogs and check older
 
 - 1
 
@@ -31,15 +31,15 @@ It will also set the Downloadable OS with the right distribution suffix.
 
 ![img src](2d.png)
 ##
-- Previous OS's
+- Previous OS Releases 
 
 ![img src](3.png)
 ##
-- Create install media
+- Create install media automation
 
 ![img src](4.png)
 ##
-- Formatting your device
+- Formatting device methods
 
 ![img src](4b.png)
 
