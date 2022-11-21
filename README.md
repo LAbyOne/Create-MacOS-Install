@@ -1,5 +1,7 @@
 # Create MacOS Install
-(Hackintosh friendly) utility to Download any Apple OS's and create a bootable install media.
+(Hackintosh) utility to Download any Apple OS's and create a bootable install media.
+
+It will also set the Downloadable OS with the right distribution suffix.
 ## 
 ![img src](logo.png)
 ## 
@@ -7,13 +9,27 @@
 
 ![img src](1.png)
 ##
-- Latest seeds
+- Latest seeds are now set to current Release Catalog
 
 ![img src](2.png)
 
-- Add warning for Release Candidate, seed as Beta on current catalog
+- And can Switch to betas by selecting the menu option
+
+![img src](2a.png)
+
+- Add possibility to change catalog and Switch to older
+
+- 1
 
 ![img src](2b.png)
+
+- 2
+
+![img src](2c.png)
+
+- Add warning for Release Candidate, seeds
+
+![img src](2d.png)
 ##
 - Previous OS's
 
