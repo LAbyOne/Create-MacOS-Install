@@ -2,14 +2,17 @@
 (Hackintosh) utility to Download any Apple OS's and create a bootable install media.
 
 It will also set the Downloadable OS with the right distribution suffix.
+
 ## 
 
 <img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/logo.png">
+
 ## 
 
 - Main panel will check your machine specs and the latest supported OS for it
 
 <img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/1.png">
+
 ##
 
 - Latest seeds are now set to current OS Release Catalog
@@ -35,6 +38,7 @@ It will also set the Downloadable OS with the right distribution suffix.
 <img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/2d.png">
 
 ##
+
 - Previous OS Releases 
 
 <img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/3.png">
