@@ -1,11 +1,9 @@
+<img style="float: right; margin-left: 30px; margin-bottom: 20px;" width="300" height="300" src="images/logo.png" align="right">
+
 # Create MacOS Install
 (Hackintosh) utility to Download any Apple OS's and create a bootable install media.
 
 It will also set the Downloadable OS with the right distribution suffix.
-
-## 
-
-<img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/logo.png">
 
 ## 
 
