@@ -72,6 +72,7 @@ It will also set the Downloadable OS with the right distribution suffix.
 ##
 Credits to :
 - [Apple](https://www.apple.com) for providing the Os
+- [Clover](https://github.com/CloverHackyColor/CloverBootloader) and [OpenCore](https://github.com/acidanthera/OpenCorePkg) for their BootLoaders
 - [jief666](https://github.com/jief666/BootloaderChooser) for creating BootloaderChooser 
 - [Me](https://github.com/LAbyOne) for building and mainteninig this tool
 ##
