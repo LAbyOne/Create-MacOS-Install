@@ -12,11 +12,6 @@ It will also set the Downloadable OS with the right distribution suffix.
 <img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/1.png">
 
 ##
-- You can also, if unsure or just testing purpose, load different Boot Loaders at the same time
-- and switch among them using BootLoader Chooser
-
-<img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/bootloaders.png">
-##
 - Latest seeds are now set to current OS Release Catalog
 
 <img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/2.png">
@@ -65,9 +60,13 @@ It will also set the Downloadable OS with the right distribution suffix.
 
 - Get and install a Boot Loader
 
-<img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/5.png">
+<img src="https://github.com/LAbyOne/Create-MacOS-Install/blob/main/images/bootloaders.png">
 
 ##
+- You can also, if unsure or just testing purpose, load different Boot Loaders at the same time
+- and switch among them using BootLoader Chooser
+##
+
 [Download](https://github.com/LAbyOne/Create-MacOS-Install/releases)
 ##
 Credits to :
